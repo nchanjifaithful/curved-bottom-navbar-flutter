@@ -8,14 +8,14 @@ This project was completed under the guide of the youtube tutorial video ["Curve
 
 ## Dependencies
 - [x] Add the following to your pubspec.yaml file - 
-  '''
-    dependencies:
+```
+dependencies:
     curved_navigation_bar: ^1.0.3
-  '''
+```
 - [x] Now run the following in your terminal - 
-  '''
+```
     fluter pub get
-  '''
+ ```
 
 ## Help
 A few resources to get you started with Flutter
