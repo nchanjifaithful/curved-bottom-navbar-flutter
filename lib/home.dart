@@ -25,15 +25,13 @@ class _HomePageState extends State<HomePage> {
         ),),
         centerTitle: true,
       ),
-      body: Container(
-        child: Center(
-          child: Text(
-            _options[_currentIndex],
-            style: const TextStyle(
-              color: Colors.blue,
-              fontWeight: FontWeight.bold,
-              fontSize: 40,
-            ),
+      body: Center(
+        child: Text(
+          _options[_currentIndex],
+          style: const TextStyle(
+            color: Colors.blue,
+            fontWeight: FontWeight.bold,
+            fontSize: 40,
           ),
         ),
       ),
