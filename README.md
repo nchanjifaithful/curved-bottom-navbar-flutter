@@ -1,4 +1,4 @@
-# Curved_navigation_bar mini project
+# Curved Navigation Bar Mini Project
 
 This project is about creating a Fluid bottom Navigation bar in Flutter. 
 
@@ -26,5 +26,6 @@ A few resources to get you started with Flutter
 
 
 ## Screenshots
-![Home Screen](screenshots/Home.png)
-![Profile Screen](screenshots/Profile.png)
+<img src="screenshots/Home.png" alt="Home Screen" style="width:400px;"/>
+<br>
+<img src="screenshots/Profile.png" alt="Profile Screen" style="width:400px;"/>
